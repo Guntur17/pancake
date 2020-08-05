@@ -1,0 +1,13 @@
+by sanz
+
+Penginstallan :
+
+$ apt update && apt upgrade
+$ pkg install python2 git
+$ pip2 install requests
+$ git clone https://github.com/B4N954N2-ID/Brutal-Sms
+$ cd Brutal-Sms
+$ python2 brutal.py
+
+Subscribe YouTube=> 𝘼𝙟𝙞 𝙐𝙢𝙖𝙧 𝙁𝙞𝙧𝙢𝙖𝙣𝙨𝙮𝙖𝙝 ;) 
+𝘽𝙖𝙣𝙩𝙪 𝙇𝙞𝙠𝙚 𝙉𝙮𝙖 ✔
